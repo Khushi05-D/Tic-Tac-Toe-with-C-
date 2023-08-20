@@ -1,5 +1,4 @@
-#include<bits/stdc++.h>  
-#include<conio.h>  
+#include<bits/stdc++.h>   
 using namespace std;  
     
 void add(char a[3][3],char inp,char ch)  
@@ -104,8 +103,7 @@ int main()
                     break;  
                 }  
             }            
-        }  
-        getch();  
+        }   
         system("cls");  
         cout<<"\n\n\n\n\t\t\tWant to play more ? (Y/N) : ";  
         cin>>res;  
